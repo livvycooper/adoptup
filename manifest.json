@@ -9,7 +9,7 @@
     "theme_color": "transparent",
     "description": "Adopt dogs from other local dog owners",
     "orientation": "portrait",
-    "background_color": "transparent",
+    "background_color": "#000000
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
