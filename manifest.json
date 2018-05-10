@@ -3,7 +3,7 @@
     "lang": "English",
     "name": "AdoptUP",
     "scope": "/adoptup/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://livvycooper.github.io/adoptup/",
     "short_name": "Adopt",
     "theme_color": "transparent",
